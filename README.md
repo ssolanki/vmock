@@ -15,7 +15,7 @@
 After confirming that your environment meets the above [requirements](#requirements), you can create a new project based on `react-redux-starter-kit` by doing the following:
 
 ```bash
-$ git clone https://github.com/davezuko/react-redux-starter-kit.git <my-project-name>
+$ git clone https://github.com/ssolanki/vmock.git <my-project-name>
 $ cd <my-project-name>
 ```
 
