@@ -1,0 +1,39 @@
+.user-info{
+  text-align: left;
+}
+.leftbar{
+  width: 20%;
+  padding: 0px 15px;
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: top;
+  img{
+    width: 100%;
+    height: auto;
+    margin: 10px 0px;
+    border-radius: 5px;
+  }
+  a, p{
+    word-wrap: break-word;
+    font-size: 14px;
+  }
+}
+.rightbar{
+  width: 80%;
+  padding: 0px 15px;
+  display: inline-block;
+  box-sizing: border-box;  
+}
+.repo{
+  padding: 20px 0px;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+  p, span{
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #555;
+  }
+  h4{
+    text-transform: capitalize;
+  }
+}
